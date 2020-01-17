@@ -43,3 +43,7 @@ Join us as we build GetItDone, a full-stack task manager application, and get to
 - In-app notifications
 - OAuth2 with Google and Facebook
 - Sync with Google Tasks
+
+## Lessons and code
+
+[Starter template](https://codesandbox.io/s/getitdone-00-beginning-of-project-wbj8s)
