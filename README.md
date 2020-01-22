@@ -1,6 +1,7 @@
 # Learn React in-depth tutorial series
 
 ## Brief Description
+
 Join us as we build GetItDone, a full-stack task manager application, and get to know the ins and outs of React in detail along the way!
 
 ## Full Description
@@ -59,4 +60,23 @@ We're going to go all the way from "Hello, world" in React to building a full-fl
 
 ## Lessons and code
 
-[Starter template](https://codesandbox.io/s/getitdone-00-beginning-of-project-wbj8s)
+- [Starter template](https://codesandbox.io/s/getitdone-00-beginning-of-project-wbj8s)
+- Lesson 1: React first steps and setting up the project
+- Lesson 2: One-way data flow, using props, and rendering lists
+- Lesson 3: Using dynamic data to set component state
+- Lesson 4: Composing a UI with React components
+- Lesson 5: HTTP requests and handling side effects with a backend API
+- Lesson 6: Modern application design and styling
+- Lesson 7: Client-side routing and navigation
+- Lesson 8: Managing more complex state with reducers
+- Lesson 9: Custom hooks and other patterns for sharing non-visual behavior
+- Lesson 10: Class components and state management
+- Lesson 11: Class component lifecycle methods
+- Lesson 12: Authentication with JSON Web Tokens
+- Lesson 13: Handling data flow to nested components with Context API
+- Lesson 14: Subscribing to notifications and other real-time data
+- Lesson 15: Advanced authentication with OAuth
+- Lesson 16: Syncing with external data services
+- Lesson 17: Using principles of good UX to build a better user interface
+- Lesson 18: Optimizing your application's performance
+- Lesson 19: Deploying to production
